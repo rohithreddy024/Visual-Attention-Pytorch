@@ -56,7 +56,9 @@ You can find the generated images in ```imgs``` folder
 
 ## Examples
 ### k=1 and start_size=2; final_accuracy=73.1:
-### k=2 and start_size=2; final_accuracy=76.0:
+![](saved_imgs/1_1.jpg) ![](saved_imgs/1_2.jpg) ![](saved_imgs/1_3.jpg)
+### k=2 and start_size=2; final_accuracy=76.2:
+![](saved_imgs/2_1.jpg) ![](saved_imgs/2_2.jpg) ![](saved_imgs/2_3.jpg)
 
 
 
