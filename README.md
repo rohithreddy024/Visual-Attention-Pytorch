@@ -60,5 +60,7 @@ You can find the generated images in ```imgs``` folder
 ### k=2 and start_size=2; final_accuracy=76.2:
 ![](saved_imgs/2_1.jpg) ![](saved_imgs/2_2.jpg) ![](saved_imgs/2_3.jpg)
 
+## References
+[A PyTorch Implementation of "Recurrent Models of Visual Attention"](https://github.com/kevinzakka/recurrent-visual-attention)
 
 
